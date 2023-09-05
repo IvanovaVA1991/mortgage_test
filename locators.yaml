@@ -1,0 +1,14 @@
+    xpath:
+     LOCATOR_OBJECT_ARROW: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[1]/div/div/span[2]/div
+     LOCATOR_FLAT: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[1]/div/div[2]/div/div[1]
+     LOCATOR_HOUSE: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[1]/div/div[2]/div/div[2]
+     LOCATOR_ROOM: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[1]/div/div[2]/div/div[3]
+     LOCATOR_APARTMENT: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[1]/div/div[2]/div/div[4]
+     LOCATOR_CREDIT_FIELD: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[2]/div/input
+     LOCATOR_BANK_ARROW: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[3]/div/div/span[2]/div
+     LOCATOR_SEX_ARROW: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[4]/div[1]/div/div[1]/span[2]
+     LOCATOR_MALE: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[4]/div[1]/div/div[2]/div/div[1]
+     LOCATOR_FEMALE: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[4]/div[1]/div/div[2]/div/div[2]
+     LOCATOR_AGE_FIELD: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[1]/div[4]/div[2]/div/input
+     LOCATOR_COUNT_BTN: //*[@id="main"]/div/section[1]/div/div/div[5]/div[2]/form/div[2]/button
+     LOCATOR_CHOICE: //*[@id="main"]/div/div/h1
